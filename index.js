@@ -16,7 +16,7 @@ app.use(function(req, res, next) {
 app.use("/emps", empsRouter);
 app.use("/admin", adminRouter);
 
-app.listen(port, ()=>{
+app.listen(port,()=>{
     console.log("Server Started..");
 });
 

@@ -1,5 +1,5 @@
 {
-    "port": 9898,
+    "port": 7879,
     "host": "localhost",
     "database": "AWP",
     "user": "root",
